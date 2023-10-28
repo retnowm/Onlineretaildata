@@ -1,4 +1,3 @@
-# Analysis User Retention
 Here I tried to do Analysis on the online retail sales dataset in 2010 to see the behavior of users who return to make transactions and the characteristics of the users
 
 ## Variables Description:
